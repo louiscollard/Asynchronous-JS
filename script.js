@@ -1,4 +1,3 @@
-// const fetchName = (name) => fetch("becode.json");
 const btn = document.querySelector("button");
 
 fetch("becode.json")
